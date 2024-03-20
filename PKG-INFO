@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: ColumnSelector
+Version: 1.0
+Summary: 
+            This is a ColumnSelector for sklearn pipelines
+      
+Home-page: https://github.com/libardolara/sklearn-column-selector/
+Author: Libardo Lara
+Author-email: l.lara@ibm.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
